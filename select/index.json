@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "魔法のもしも",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-03-14T16:15:49.093981Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法のもしも",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_魔法のもしも_秋山黄色.txt"
+    }
+  ]
+}
